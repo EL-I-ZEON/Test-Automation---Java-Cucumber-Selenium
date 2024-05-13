@@ -10,6 +10,7 @@ This automation testing framework allows for behavior-driven development (BDD) u
 
 - **BDD Support**: Write test scenarios in Gherkin syntax using Cucumber.
 - **Web Automation**: Automate web interactions with Selenium.
+- **RestAssured**: API Testing
 - **AI Integration**: Use Sapient AI to generate test scenarios and unit tests.
 - **Flexibility**: Easily extend and customize test scenarios and steps according to project requirements.
 
